@@ -8,7 +8,6 @@ body{
     width: 100%;
 }
 .container{
-    
     max-width:90vw;
     margin: 10px auto;
     background-color: #235277;
@@ -17,10 +16,13 @@ body{
     border-radius: 5px;
 
 }
+
 h2{
-    text-align: center;
-    padding: 20px;
+
+    padding:10px;
+    text-align:center;
 }
+
 
 
 .box{
