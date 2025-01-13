@@ -1,0 +1,48 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #212121;
+    width: 100%;
+}
+.container{
+    
+    max-width:90vw;
+    margin: 10px auto;
+    background-color: #235277;
+    padding:20px;
+    color:white;
+    border-radius: 5px;
+
+}
+
+
+
+.box{
+    width:600px;
+    margin:auto;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.images img{
+    border-radius:50%;
+    margin-left:20px;
+    cursor:pointer;
+    padding:5px;
+}
+.msg-content{
+    margin-top:20px;
+}
+.msg-content p{
+ padding:10px;
+ font-size:18px;
+ letter-spacing: 1.5px;
+ text-transform: capitalize;
+}
+
+
